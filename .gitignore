@@ -1,0 +1,7 @@
+#Mac indexing
+.DS_Store/
+
+#intellij idea
+.idea/
+target/
+*.iml
