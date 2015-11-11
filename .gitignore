@@ -1,7 +1,8 @@
 #Mac indexing
-.DS_Store/
+.DS_Store
 
 #intellij idea
-.idea/
-target/
+.idea/*
+/AO.widget/target
+/AO.hibernate/target
 *.iml
