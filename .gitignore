@@ -4,6 +4,7 @@
 #intellij idea
 .idea/
 AO.hibernate/target/
+AO.hibernate/AO.hibernate.iml
 AO.widget/target/
 AO.widget/.idea/
-*.iml
+AO.widget/AO.widget.iml
