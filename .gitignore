@@ -2,7 +2,8 @@
 .DS_Store
 
 #intellij idea
-.idea/*
-/AO.widget/target
-/AO.hibernate/target
+.idea/
+AO.hibernate/target/
+AO.widget/target/
+AO.widget/.idea/
 *.iml
