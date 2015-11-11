@@ -2,6 +2,6 @@
 .DS_Store/
 
 #intellij idea
-.idea/
-target/
+.idea/*
+target/*
 *.iml
